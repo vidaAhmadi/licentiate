@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1 Vida Ahmadi Mehri's Licentiate Thesis
-## Header 2 Blekinge Tekniska Högskola, Department of Computer Science
+# Vida Ahmadi Mehri's Licentiate Thesis
+## Blekinge Tekniska Högskola, Department of Computer Science
 ### Header 3
 
 - Bulleted
