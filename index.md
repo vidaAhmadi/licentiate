@@ -1,16 +1,6 @@
-# Vida Ahmadi Mehri's Licentiate Thesis
-## Blekinge Tekniska Högskola, Department of Computer Science
+<h3 style="text-align:center;color:#606c71;"><b>Licentiate Thesis</b></h3>
+<h1 style="text-align:center;color:#606c71;"><b>Towards Secure Collaborative AI Service Chains</b></h1>
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://www.bth.se/staff/vida-ahmadi-mehri-vax/) and ![Image](src)
-```
-
+**Abstract**
+<p align="justify">
 
