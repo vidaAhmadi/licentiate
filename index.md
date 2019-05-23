@@ -6,6 +6,7 @@
 <p align="justify">This work investigates the non-functional requirements, such as privacy and security, for enabling collaboration in AI service chains. It proposes the architectural design approach for collaborative AI engineering and explores the concept of the pipeline(service chain) for chaining AI functions. In order to enable controlled collaboration between AI artefacts 1 in a pipeline, this work makes use of virtualisation technology to define and implement Virtual Premises (VPs), which acts as protection wrappers for AI pipelines. A VP is a virtual policy enforcement point for a pipeline and requires access permission and authenticity for each element in a pipeline before the pipeline can be used. </p>
 <p align="justify">Furthermore, the proposed architecture is evaluated by scenario-based architectural method for faster and less expensive error detection of design during the initial stage of implementation. To evaluate the security level and compliance of the system, this work performs threat modeling to identify the potential threats and vulnerabilities of a system and analyse their possible effects. It proposes a method to countermeasure the threats related to unauthorised access and execution of AI artefacts.</p>
 
+[Licentiate Thesis]()
 **The following papers are included in this thesis**
 
 **Paper I:** 
@@ -36,3 +37,16 @@
 <p align="justify"> This paper describes the privacy and DRM requirements in collaborative AI system design using AI pipelines. It describes the relationships between DRM and privacy and outlines the threats against these non-functional features. Finally, the paper provides first security architecture to protect against the threats on DRM and privacy in collaborative AI design using AI pipelines.</p>
 
 [Link to paper](https://dl.acm.org/citation.cfm?doid=3230833.3233268)
+
+
+**Paper IV:**
+
+<p align="justify"> Ahmadi Mehri, V., Ilie, D. , Tutschku, K. "Designing a Secure IoT System Architecture from a Virtual Premise for a Collaborative AI Lab". <i>In Network and Distributed System Security Symposium(NDSS): Workshop on Decentralized IoT Systems and Security(DISS)</i>, 2019, San Diego, CA, USA. </P>
+
+**Abstract**
+<p align="justify">IoT systems are increasingly composed out of flexible, programmable, virtualised, and arbitrarily chained IoT elements and services using portable code. Moreover, they might be sliced, i.e. allowing multiple logical IoT systems (network + application) to run on top of a shared physical network and compute infrastructure. However, implementing and designing particularly security mechanisms for such IoT systems is challenging since a) promising technologies are still maturing, and b) the relationships among the many requirements, technologies and components are difficult to model a-priori. </P>
+<p align="justify"> The aim of the paper is to define design cues for the security architecture and mechanisms of future, virtualised, arbitrarily chained, and eventually sliced IoT systems. Hereby, our focus is laid on the authorisation and authentication of user and host, as well as on code integrity in these virtualised systems. The design cues are derived from the design and implementation of a secure virtual environment for distributed and collaborative AI system engineering using so called AI pipelines. The pipelines apply chained virtual elements and services and facilitate the slicing of the system. The virtual environment is denoted for short as the virtual premise (VP). The use-case of the VP for AI design provides insight into the complex interactions in the architecture, leading us to believe that the VP concept can be generalised to the IoT systems mentioned above. In addition, the use-case permits to derive, implement, and test solutions. This paper describes the flexible architecture of the VP and the design and implementation of access and execution control in virtual and containerised environments.</P>
+
+
+
+[Link to paper](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1284028&dswid=9634)
