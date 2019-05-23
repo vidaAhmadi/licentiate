@@ -19,7 +19,7 @@
 [Link to paper](https://ieeexplore.ieee.org/abstract/document/7503827)
 
 **Paper II:**
-<p align="justify">Ahmadi Mehri, V., Tutschku, K. "Flexible Privacy and High Trust in the Next Generation Internet: the Use Case of Cloud-based Marketplace for AI".<i>In 13th Swedish National Computer Networking Workshop(SNCNW)</i>, 2017, Halmstad, Sweden.</p>
+<p align="justify">Ahmadi Mehri, V., Tutschku, K. "Flexible Privacy and High Trust in the Next Generation Internet: the Use Case of Cloud-based Marketplace for AI". <i>In 13th Swedish National Computer Networking Workshop(SNCNW)</i>, 2017, Halmstad, Sweden.</p>
 
 **Abstract**
 <p align="justify"> Cloudified architectures facilitate resource access and sharing which is independent from physical locations. They permit high availability of resources at low operational costs. These advantages, however, do not come for free. End users might fear that they loose control over the location of their data and, thus, of their autonomy in deciding to whom the data is communicate to. Thus, strong privacy and trust concerns arise for end users.</p>
@@ -27,3 +27,12 @@
 
 
 [Link to paper](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1128475&dswid=1073)
+
+**Paper III:**
+<p align="justify">Ahmadi Mehri, V., Ilie, D. , Tutschku, K. "Privacy and DRM Requirements for Collaborative Development of AI Application". <i>In 13th International Conference on Availability, Reliability and Security, ARES 2018: Workshop on Interdisciplinary Privacy and Trust, </i> 2018, Hamburg, Germany</p>
+
+**Abstract**
+<p align="justify"> The use of data is essential for the capabilities of Data-driven Artificial intelligence (AI), Deep Learning and Big Data analysis techniques. This data usage, however, raises intrinsically the concerns on data privacy. In addition, supporting collaborative development of AI applications across organisations has become a major need in AI system design. Digital Rights Management (DRM) is required to protect intellectual property in such collaboration. As a consequence of DRM, privacy threats and privacy- enforcing mechanisms will interact with each other.</p>
+<p align="justify"> This paper describes the privacy and DRM requirements in collaborative AI system design using AI pipelines. It describes the relationships between DRM and privacy and outlines the threats against these non-functional features. Finally, the paper provides first security architecture to protect against the threats on DRM and privacy in collaborative AI design using AI pipelines.</p>
+
+[Link to paper](https://dl.acm.org/citation.cfm?doid=3230833.3233268)
