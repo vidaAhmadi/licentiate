@@ -9,7 +9,7 @@
 **The following papers are included in this thesis**
 
 **Paper I:** 
-<p align="justify">Tutscku, K., Ahmadi Mehri, V., Carlsson, A., Chivukula, K. V., & Christensson, J. "On Resource Description Capabilities of on-board Tools for Resource Management in Cloud Networking and NFV Infrastructures". <i>In IEEE International Conference on Communication Workshops(ICC), 2016, Kuala Lumpur, Malaysia</i></p>
+<p align="justify">Tutschku, K., Ahmadi Mehri, V., Carlsson, A., Chivukula, K. V., & Christensson, J. "On Resource Description Capabilities of on-board Tools for Resource Management in Cloud Networking and NFV Infrastructures". <i>In IEEE International Conference on Communication Workshops(ICC), 2016, Kuala Lumpur, Malaysia</i></p>
 
 **Abstract**
 <p align="justify">The rapid adoption of networks that are based on "cloudification" and Network Function Virtualisation (NFV) comes from the anticipated high cost savings of up to 70% in their build and operation. The high savings are founded in the use of general standard servers, instead of single-purpose hardware, and by efficiency resource sharing through virtualisation concepts.</p>
@@ -18,3 +18,12 @@
 
 [Link to paper](https://ieeexplore.ieee.org/abstract/document/7503827)
 
+**Paper II:**
+<p align="justify">Ahmadi Mehri, V., Tutschku, K. "Flexible Privacy and High Trust in the Next Generation Internet: the Use Case of Cloud-based Marketplace for AI".<i>In 13th Swedish National Computer Networking Workshop(SNCNW)</i>, 2017, Halmstad, Sweden.</p>
+
+**Abstract**
+<p align="justify"> Cloudified architectures facilitate resource access and sharing which is independent from physical locations. They permit high availability of resources at low operational costs. These advantages, however, do not come for free. End users might fear that they loose control over the location of their data and, thus, of their autonomy in deciding to whom the data is communicate to. Thus, strong privacy and trust concerns arise for end users.</p>
+<p align="justify">In this work we will review and investigate privacy and trust requirements for Cloud systems in general and for a cloud-based marketplace (CMP) for AI in particular. We will investigate whether and how the current privacy and trust dimensions can be applied to Clouds and for the design of a CMP. We also propose the concept of a "virtual premise" for enabling "Privacy-by- Design" in Clouds. The idea of a "virtual premise" might probably not be a universal solution for any privacy requirement. However, we expect that it provides flexibility in designing privacy in Clouds and thus leading to higher trust. </p>
+
+
+[Link to paper](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1128475&dswid=1073)
