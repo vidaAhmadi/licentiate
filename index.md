@@ -7,6 +7,8 @@
 <p align="justify">Furthermore, the proposed architecture is evaluated by scenario-based architectural method for faster and less expensive error detection of design during the initial stage of implementation. To evaluate the security level and compliance of the system, this work performs threat modeling to identify the potential threats and vulnerabilities of a system and analyse their possible effects. It proposes a method to countermeasure the threats related to unauthorised access and execution of AI artefacts.</p>
 
 [Licentiate Thesis]()
+
+
 **The following papers are included in this thesis**
 
 **Paper I:** 
