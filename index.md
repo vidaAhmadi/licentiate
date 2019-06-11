@@ -8,7 +8,7 @@
 
 [Licentiate Thesis]()  
 
-**Date of Licentiate seminar: 10 September 2019**
+*Date of Licentiate seminar: 10 September 2019*
 
 **The following papers are included in this thesis**
 
