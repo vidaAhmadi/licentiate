@@ -6,7 +6,8 @@
 <p align="justify">This work investigates the non-functional requirements, such as privacy and security, for enabling collaboration in AI service chains. It proposes the architectural design approach for collaborative AI engineering and explores the concept of the pipeline(service chain) for chaining AI functions. In order to enable controlled collaboration between AI artefacts 1 in a pipeline, this work makes use of virtualisation technology to define and implement Virtual Premises (VPs), which acts as protection wrappers for AI pipelines. A VP is a virtual policy enforcement point for a pipeline and requires access permission and authenticity for each element in a pipeline before the pipeline can be used. </p>
 <p align="justify">Furthermore, the proposed architecture is evaluated by scenario-based architectural method for faster and less expensive error detection of design during the initial stage of implementation. To evaluate the security level and compliance of the system, this work performs threat modeling to identify the potential threats and vulnerabilities of a system and analyse their possible effects. It proposes a method to countermeasure the threats related to unauthorised access and execution of AI artefacts.</p>
 
-[Licentiate Thesis]()
+[Licentiate Thesis]()  
+
 **Date of Licentiate seminar: 10 September 2019**
 
 **The following papers are included in this thesis**
