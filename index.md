@@ -7,7 +7,7 @@
 the concept of the pipeline (service chain) for chaining AI functions. In order to enable controlled collaboration between AI artefacts in a pipeline, this work makes use of virtualisation technology to define and implement Virtual Premises (VPs), which act as protection wrappers for AI pipelines. A VP is a virtual policy enforcement point for a pipeline and requires access permission and authenticity for each element in a pipeline before the pipeline can be used. </p>
 <p align="justify">Furthermore, the proposed architecture is evaluated in use-case approach that enables quick detection of design flaw during the initial stage of implementation. To evaluate the security level and compliance with security requirements, threat modeling was used to identify potential threats and vulnerabilities of the system and analyses their possible effects. The output of threat modeling was used to define countermeasure to threats related to unauthorised access and execution of AI artefacts.</p>
 
-[Licentiate Thesis]()  
+[Licentiate Thesis](./doc/vax-lic-thesis.pdf)  
 
 *Date of Licentiate seminar: 10 September 2019*
 
